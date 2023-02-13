@@ -1,0 +1,104 @@
+.container {
+    width: 1000px;
+    height: 1000px;
+    margin: 0 auto;
+}
+
+/* .bg-green {
+    background-color:green;
+} */
+
+.box1 {
+    width: 1000px;
+    height: 65px;
+    background-color:rgb(207, 233, 233);
+    margin-top: 3px;
+}
+
+.box2 {
+    width:30%;
+    height:65px;
+    background-color:rgb(142, 186, 203);
+    float: left;
+    margin-top: 3px;
+}
+
+.box3 {
+    width: 24.3%;
+    height: 65px;
+    background-color:rgb(142, 186, 203);
+    float:left;
+    margin-top: 3px;
+    margin-left: 3px;
+}
+
+.box4 {
+    width: 45%;
+    height: 65px;
+    background-color:rgb(142, 186, 203);
+    float:left;
+    margin-top: 3px;
+    margin-left: 3px;
+    margin-right: 0%;
+
+}
+
+.minibox1 {
+    width: 300px;
+    height: 20px;
+    background-color: white;
+    margin: auto;
+    border-radius: 3px;
+    border-style: solid;
+    border-color: rgb(149, 149, 149);
+}
+
+.minibox2{
+    width:100px;
+    height: 15px;
+    padding-top:2px;
+    background-color:rgb(234, 241, 241);
+    border-radius: 3px;
+    border-style: solid;
+    border-color:rgb(108, 107, 107);
+    float:left;
+    margin-left: 39%;
+}
+
+.minibox3{
+    width:100px;
+    height: 15px;
+    padding-top:2px;
+    background-color:rgb(234, 241, 241);
+    border-radius: 3px;
+    border-style: solid;
+    border-color:rgb(108, 107, 107);
+    float:left;
+    margin-left:0.2%;
+}
+
+.minibox4 {
+    width: 150px;
+    height:15px;
+    background-color:white;
+    margin: auto;
+    padding-left: 0px;
+}
+
+.minibox5 {
+    width: 70px;
+    height: 15px;
+    background-color:rgb(246, 240, 240);
+    border-radius: 3px;
+    border-style: solid;
+    border-color:rgb(108, 107, 107);
+    float: left;
+    margin-left: 35%;
+}
+
+.minibox6 {
+    width: 70px;
+    height: 15px;
+    padding-top:3px;
+    float: left;
+}
